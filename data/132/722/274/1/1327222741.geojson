@@ -41,7 +41,7 @@
         "gn:id":3490981
     },
     "wof:country":"JM",
-    "wof:geomhash":"cacba35ac11801f5f4d9cc0c1948f73a",
+    "wof:geomhash":"3670fd076c0f68fdc209c0a87e511153",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,5 +66,5 @@
     -77.05,
     17.93332999999999
 ],
-  "geometry": {"coordinates":[-77.05,17.93332999999999],"type":"Point"}
+  "geometry": {"coordinates":[-77.05,17.93333],"type":"Point"}
 }

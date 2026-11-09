@@ -42,7 +42,7 @@
         "wk:page":"Hopewell%2C_Clarendon"
     },
     "wof:country":"JM",
-    "wof:geomhash":"2acfe431946d9d799ade38e846f023d1",
+    "wof:geomhash":"b4687f07ea80ddd100ceba7803ddb697",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,5 +67,5 @@
     -77.3,
     17.93332999999999
 ],
-  "geometry": {"coordinates":[-77.3,17.93332999999999],"type":"Point"}
+  "geometry": {"coordinates":[-77.3,17.93333],"type":"Point"}
 }

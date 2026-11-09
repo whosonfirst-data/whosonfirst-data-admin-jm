@@ -42,7 +42,7 @@
         "wk:page":"Cotterwood"
     },
     "wof:country":"JM",
-    "wof:geomhash":"b02f8f5add5531dd33caa1fb6e21f8c1",
+    "wof:geomhash":"9270f86cbadc15363525672f35c5fc7f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,5 +67,5 @@
     -77.91306999999998,
     18.0893
 ],
-  "geometry": {"coordinates":[-77.91306999999998,18.0893],"type":"Point"}
+  "geometry": {"coordinates":[-77.91307,18.0893],"type":"Point"}
 }

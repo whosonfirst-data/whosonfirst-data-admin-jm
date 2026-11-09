@@ -51,7 +51,7 @@
         "wk:page":"Highgate%2C_Jamaica"
     },
     "wof:country":"JM",
-    "wof:geomhash":"79a7ee1854b18ab0fcfecb6cf23dc2b9",
+    "wof:geomhash":"24d1e01f2c2bff0be7676f1c779a9b40",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,5 +76,5 @@
     -76.89348000000003,
     18.27239
 ],
-  "geometry": {"coordinates":[-76.89348000000003,18.27239],"type":"Point"}
+  "geometry": {"coordinates":[-76.89348,18.27239],"type":"Point"}
 }

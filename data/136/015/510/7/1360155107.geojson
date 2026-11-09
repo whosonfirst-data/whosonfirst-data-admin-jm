@@ -57,7 +57,7 @@
         "wk:page":"Sherwood_Content"
     },
     "wof:country":"JM",
-    "wof:geomhash":"72157e466631a3547607acbbeb2f90bf",
+    "wof:geomhash":"847b09ba4382466df914e2a31a1d04d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,5 +82,5 @@
     -77.62834000000002,
     18.39116
 ],
-  "geometry": {"coordinates":[-77.62834000000002,18.39116],"type":"Point"}
+  "geometry": {"coordinates":[-77.62834,18.39116],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Hopewell%2C_Manchester"
     },
     "wof:country":"JM",
-    "wof:geomhash":"8ff9a10fd85705f9a893eca5feccd3f0",
+    "wof:geomhash":"3e7be4919a9a4e50843b916b359f7b95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,5 +67,5 @@
     -77.43333,
     17.93332999999999
 ],
-  "geometry": {"coordinates":[-77.43333,17.93332999999999],"type":"Point"}
+  "geometry": {"coordinates":[-77.43333,17.93333],"type":"Point"}
 }

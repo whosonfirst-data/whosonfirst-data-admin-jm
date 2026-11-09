@@ -42,7 +42,7 @@
         "wk:page":"Old_Pera%2C_Jamaica"
     },
     "wof:country":"JM",
-    "wof:geomhash":"c631d91c77eb3e8e5f90f2c63593a870",
+    "wof:geomhash":"1b4ff151aa1759b0de5a0836b847ce93",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,5 +67,5 @@
     -76.31578,
     17.87626000000001
 ],
-  "geometry": {"coordinates":[-76.31578,17.87626000000001],"type":"Point"}
+  "geometry": {"coordinates":[-76.31578,17.87626],"type":"Point"}
 }

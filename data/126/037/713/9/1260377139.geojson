@@ -47,7 +47,7 @@
         "wk:page":"Haddersfield%2C_Jamaica"
     },
     "wof:country":"JM",
-    "wof:geomhash":"bf865bdc2c0ce6b26e33206ed0d004d9",
+    "wof:geomhash":"f0abe8291c1ba9b1d7a9fdea17cc89f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,5 +72,5 @@
     -77.01666999999998,
     18.4
 ],
-  "geometry": {"coordinates":[-77.01666999999998,18.4],"type":"Point"}
+  "geometry": {"coordinates":[-77.01667,18.4],"type":"Point"}
 }

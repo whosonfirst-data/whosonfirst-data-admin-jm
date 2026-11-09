@@ -48,7 +48,7 @@
         "wk:page":"Bull_Bay"
     },
     "wof:country":"JM",
-    "wof:geomhash":"e23ecd9e29465cf5adf5ebe26dad6ba5",
+    "wof:geomhash":"695a6abee303966943d89f16be352945",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,5 +73,5 @@
     -76.66603,
     17.94372000000001
 ],
-  "geometry": {"coordinates":[-76.66603000000001,17.94372000000001],"type":"Point"}
+  "geometry": {"coordinates":[-76.66603,17.94372],"type":"Point"}
 }

@@ -47,7 +47,7 @@
         "wk:page":"Port_Esquivel"
     },
     "wof:country":"JM",
-    "wof:geomhash":"2cec796b9219c2af92efdd36f8144b68",
+    "wof:geomhash":"eaa8f00bba1789f6236bc199df7fb880",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,5 +72,5 @@
     -77.13188000000002,
     17.89272
 ],
-  "geometry": {"coordinates":[-77.13188000000002,17.89272],"type":"Point"}
+  "geometry": {"coordinates":[-77.13188,17.89272],"type":"Point"}
 }

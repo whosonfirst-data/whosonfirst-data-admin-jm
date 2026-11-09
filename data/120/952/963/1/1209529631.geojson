@@ -44,7 +44,7 @@
         "wk:page":"Palmers_Cross"
     },
     "wof:country":"JM",
-    "wof:geomhash":"1f80076f42f13c080e0f7e46165e2979",
+    "wof:geomhash":"71b3a51a1272bfda323c1ba3033a2584",
     "wof:hierarchy":[
         {
             "country_id":85632215,
@@ -67,5 +67,5 @@
     -77.21417,
     17.95162000000001
 ],
-  "geometry": {"coordinates":[-77.21417,17.95162000000001],"type":"Point"}
+  "geometry": {"coordinates":[-77.21417,17.95162],"type":"Point"}
 }

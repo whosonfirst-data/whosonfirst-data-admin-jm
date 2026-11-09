@@ -47,7 +47,7 @@
         "wk:page":"Duckenfield%2C_Jamaica"
     },
     "wof:country":"JM",
-    "wof:geomhash":"6fec4d786b086243702705a24156a654",
+    "wof:geomhash":"87520277aed58e3fde29120c7e7f439a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,5 +72,5 @@
     -76.26048,
     17.92092000000001
 ],
-  "geometry": {"coordinates":[-76.26048,17.92092000000001],"type":"Point"}
+  "geometry": {"coordinates":[-76.26048,17.92092],"type":"Point"}
 }

@@ -123,7 +123,7 @@
     "wof:concordances":{},
     "wof:country":"JM",
     "wof:created":1499130539,
-    "wof:geomhash":"d2ac43734ff15883350ac618dd351b6d",
+    "wof:geomhash":"811e7f45297e3341bc0d3f2598f617ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,5 +148,5 @@
     -77.19952453714319,
     18.43263913927598
 ],
-  "geometry": {"coordinates":[-77.19952453714319,18.43263913927598],"type":"Point"}
+  "geometry": {"coordinates":[-77.199525,18.432639],"type":"Point"}
 }

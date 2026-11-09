@@ -42,7 +42,7 @@
         "wk:page":"Guy%27s_Hill"
     },
     "wof:country":"JM",
-    "wof:geomhash":"9bc48ae737b1f0700b7716b9d3953f6b",
+    "wof:geomhash":"632433f8388bb608d2b3313899fc18a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,5 +67,5 @@
     -76.99179000000002,
     18.24987
 ],
-  "geometry": {"coordinates":[-76.99179000000002,18.24987],"type":"Point"}
+  "geometry": {"coordinates":[-76.99179,18.24987],"type":"Point"}
 }

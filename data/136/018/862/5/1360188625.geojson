@@ -42,7 +42,7 @@
         "wk:page":"Frankfield"
     },
     "wof:country":"JM",
-    "wof:geomhash":"11913f47c83a87733def9c1846a9dbbe",
+    "wof:geomhash":"bec0e85a4100fb420b4de480d6aeac19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,5 +67,5 @@
     -77.36643000000002,
     18.14662
 ],
-  "geometry": {"coordinates":[-77.36643000000002,18.14662],"type":"Point"}
+  "geometry": {"coordinates":[-77.36643,18.14662],"type":"Point"}
 }

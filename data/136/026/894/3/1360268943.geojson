@@ -42,7 +42,7 @@
         "wk:page":"Hopewell_Hall"
     },
     "wof:country":"JM",
-    "wof:geomhash":"80d3421425f7c581a25c2d1ad1ec6f8c",
+    "wof:geomhash":"4a76bbb6a499b7d7562ee56927f5448e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,5 +67,5 @@
     -76.33333,
     17.93332999999999
 ],
-  "geometry": {"coordinates":[-76.33333,17.93332999999999],"type":"Point"}
+  "geometry": {"coordinates":[-76.33333,17.93333],"type":"Point"}
 }

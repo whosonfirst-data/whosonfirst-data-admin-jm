@@ -42,7 +42,7 @@
         "wk:page":"Airy_Castle"
     },
     "wof:country":"JM",
-    "wof:geomhash":"507b5a17c5ecb8be3d4c4eb9cc79559c",
+    "wof:geomhash":"5fd68880462c0985d2548e6306cfab59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,5 +67,5 @@
     -76.34572,
     17.92057999999999
 ],
-  "geometry": {"coordinates":[-76.34572,17.92057999999999],"type":"Point"}
+  "geometry": {"coordinates":[-76.34572,17.92058],"type":"Point"}
 }

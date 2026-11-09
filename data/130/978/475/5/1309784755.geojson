@@ -42,7 +42,7 @@
         "wk:page":"Aeolus_Valley"
     },
     "wof:country":"JM",
-    "wof:geomhash":"490ed6d83211dd0b446d8a4a56a93347",
+    "wof:geomhash":"e5e1713ae778667bac117f232057c5f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,5 +67,5 @@
     -76.53229,
     17.90433999999999
 ],
-  "geometry": {"coordinates":[-76.53229,17.90433999999999],"type":"Point"}
+  "geometry": {"coordinates":[-76.53229,17.90434],"type":"Point"}
 }
