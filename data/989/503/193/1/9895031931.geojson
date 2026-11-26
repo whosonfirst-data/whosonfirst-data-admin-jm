@@ -1,0 +1,72 @@
+{
+  "id": 9895031931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.827,18.3174,-77.827,18.3174",
+    "geom:latitude":18.3174,
+    "geom:longitude":-77.827,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640700: name \"Flamstead Gardens\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640700"
+        },
+        {
+            "citation":"GeoNames populated place 12640700: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640700"
+        },
+        {
+            "citation":"GeoNames populated place 12640700: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640700"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672573 (Saint James), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672573,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640700
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"8ea9df898da40983656219cd1050e87a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031931,
+            "region_id":85672573
+        }
+    ],
+    "wof:id":9895031931,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Flamstead Gardens",
+    "wof:parent_id":85672573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.827,
+    18.3174,
+    -77.827,
+    18.3174
+],
+  "geometry": {"coordinates":[-77.827,18.3174],"type":"Point"}
+}

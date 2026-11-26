@@ -1,0 +1,72 @@
+{
+  "id": 9895031723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.78775,18.21267,-76.78775,18.21267",
+    "geom:latitude":18.21267,
+    "geom:longitude":-76.78775,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12639655: name \"Baxters Mountain\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12639655"
+        },
+        {
+            "citation":"GeoNames populated place 12639655: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12639655"
+        },
+        {
+            "citation":"GeoNames populated place 12639655: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12639655"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672605 (Saint Mary), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672605,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12639655
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"009378aa751f16d5f2b1cc313ae2be57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031723,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":9895031723,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Baxters Mountain",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.78775,
+    18.21267,
+    -76.78775,
+    18.21267
+],
+  "geometry": {"coordinates":[-76.78775,18.21267],"type":"Point"}
+}

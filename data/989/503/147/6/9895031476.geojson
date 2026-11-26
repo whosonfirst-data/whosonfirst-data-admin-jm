@@ -1,0 +1,72 @@
+{
+  "id": 9895031476,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.92405,17.9704,-76.92405,17.9704",
+    "geom:latitude":17.9704,
+    "geom:longitude":-76.92405,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12573988: name \"Clifton\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12573988"
+        },
+        {
+            "citation":"GeoNames populated place 12573988: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12573988"
+        },
+        {
+            "citation":"GeoNames populated place 12573988: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12573988"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672601 (Saint Catherine), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672601,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12573988
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"95baeae9522699b3a3dc9708cb74533a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031476,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":9895031476,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Clifton",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.92405,
+    17.9704,
+    -76.92405,
+    17.9704
+],
+  "geometry": {"coordinates":[-76.92405,17.9704],"type":"Point"}
+}

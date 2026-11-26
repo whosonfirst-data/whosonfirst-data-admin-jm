@@ -1,0 +1,72 @@
+{
+  "id": 9895031265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.0178,18.2749,-77.0178,18.2749",
+    "geom:latitude":18.2749,
+    "geom:longitude":-77.0178,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12558095: name \"Whitehall\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12558095"
+        },
+        {
+            "citation":"GeoNames populated place 12558095: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12558095"
+        },
+        {
+            "citation":"GeoNames populated place 12558095: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12558095"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672599 (Saint Ann), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672599,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12558095
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"8ce0f4959d3b4ed81acdfc5029ca4409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031265,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":9895031265,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Whitehall",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.0178,
+    18.2749,
+    -77.0178,
+    18.2749
+],
+  "geometry": {"coordinates":[-77.0178,18.2749],"type":"Point"}
+}

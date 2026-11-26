@@ -1,0 +1,72 @@
+{
+  "id": 9895031682,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.8198,18.038,-76.8198,18.038",
+    "geom:latitude":18.038,
+    "geom:longitude":-76.8198,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12625907: name \"Valentine Gardens\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12625907"
+        },
+        {
+            "citation":"GeoNames populated place 12625907: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12625907"
+        },
+        {
+            "citation":"GeoNames populated place 12625907: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12625907"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672609 (Saint Andrew), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672609,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12625907
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"4c200bf45aeff85125f59ee6b32925a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031682,
+            "region_id":85672609
+        }
+    ],
+    "wof:id":9895031682,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Valentine Gardens",
+    "wof:parent_id":85672609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.8198,
+    18.038,
+    -76.8198,
+    18.038
+],
+  "geometry": {"coordinates":[-76.8198,18.038],"type":"Point"}
+}

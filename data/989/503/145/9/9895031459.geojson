@@ -1,0 +1,72 @@
+{
+  "id": 9895031459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.9878,18.25886,-76.9878,18.25886",
+    "geom:latitude":18.25886,
+    "geom:longitude":-76.9878,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12573926: name \"Decoy Land\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12573926"
+        },
+        {
+            "citation":"GeoNames populated place 12573926: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12573926"
+        },
+        {
+            "citation":"GeoNames populated place 12573926: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12573926"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672605 (Saint Mary), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672605,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12573926
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"247f3f9e9822d7cdeb3cf2e4fc5c4893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031459,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":9895031459,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Decoy Land",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.9878,
+    18.25886,
+    -76.9878,
+    18.25886
+],
+  "geometry": {"coordinates":[-76.9878,18.25886],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895031579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.74899,18.065,-76.74899,18.065",
+    "geom:latitude":18.065,
+    "geom:longitude":-76.74899,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12607290: name \"Peters Rock\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12607290"
+        },
+        {
+            "citation":"GeoNames populated place 12607290: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12607290"
+        },
+        {
+            "citation":"GeoNames populated place 12607290: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12607290"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672609 (Saint Andrew), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672609,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12607290
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"4d7dbe5e5fea7bbff11a4dc3c961ccb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031579,
+            "region_id":85672609
+        }
+    ],
+    "wof:id":9895031579,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Peters Rock",
+    "wof:parent_id":85672609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.74899,
+    18.065,
+    -76.74899,
+    18.065
+],
+  "geometry": {"coordinates":[-76.74899,18.065],"type":"Point"}
+}

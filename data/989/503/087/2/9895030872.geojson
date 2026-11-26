@@ -1,0 +1,72 @@
+{
+  "id": 9895030872,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.7815,18.3557,-77.7815,18.3557",
+    "geom:latitude":18.3557,
+    "geom:longitude":-77.7815,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12541327: name \"Schaw Castle\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12541327"
+        },
+        {
+            "citation":"GeoNames populated place 12541327: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12541327"
+        },
+        {
+            "citation":"GeoNames populated place 12541327: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12541327"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672573 (Saint James), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672573,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12541327
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"6a96dab7157a887d88f19f29bb9ba95c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895030872,
+            "region_id":85672573
+        }
+    ],
+    "wof:id":9895030872,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Schaw Castle",
+    "wof:parent_id":85672573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.7815,
+    18.3557,
+    -77.7815,
+    18.3557
+],
+  "geometry": {"coordinates":[-77.7815,18.3557],"type":"Point"}
+}

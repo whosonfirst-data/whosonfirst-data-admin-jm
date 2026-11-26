@@ -1,0 +1,72 @@
+{
+  "id": 9895031471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.0309,17.96573,-77.0309,17.96573",
+    "geom:latitude":17.96573,
+    "geom:longitude":-77.0309,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12573968: name \"McCooks Pen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12573968"
+        },
+        {
+            "citation":"GeoNames populated place 12573968: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12573968"
+        },
+        {
+            "citation":"GeoNames populated place 12573968: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12573968"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672601 (Saint Catherine), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672601,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12573968
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"53f088e52b57517cdfb0978ad14b5e35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031471,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":9895031471,
+    "wof:lastmodified":1795735002,
+    "wof:name":"McCooks Pen",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.0309,
+    17.96573,
+    -77.0309,
+    17.96573
+],
+  "geometry": {"coordinates":[-77.0309,17.96573],"type":"Point"}
+}

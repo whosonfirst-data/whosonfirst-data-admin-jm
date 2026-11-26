@@ -1,0 +1,72 @@
+{
+  "id": 9895032037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.7073,17.97225,-77.7073,17.97225",
+    "geom:latitude":17.97225,
+    "geom:longitude":-77.7073,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12680172: name \"Malvern Pen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12680172"
+        },
+        {
+            "citation":"GeoNames populated place 12680172: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12680172"
+        },
+        {
+            "citation":"GeoNames populated place 12680172: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12680172"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672569 (Saint Elizabeth), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672569,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12680172
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"4dde6611e471d57452d70585efb954d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895032037,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":9895032037,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Malvern Pen",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.7073,
+    17.97225,
+    -77.7073,
+    17.97225
+],
+  "geometry": {"coordinates":[-77.7073,17.97225],"type":"Point"}
+}

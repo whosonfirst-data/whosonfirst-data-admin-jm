@@ -1,0 +1,72 @@
+{
+  "id": 9895031050,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.56817,17.89945,-76.56817,17.89945",
+    "geom:latitude":17.89945,
+    "geom:longitude":-76.56817,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12547848: name \"Brighton\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12547848"
+        },
+        {
+            "citation":"GeoNames populated place 12547848: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12547848"
+        },
+        {
+            "citation":"GeoNames populated place 12547848: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12547848"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672615 (Saint Thomas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672615,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12547848
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"5ab46ea74d1751e6ac04bd0f97a9a128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031050,
+            "region_id":85672615
+        }
+    ],
+    "wof:id":9895031050,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Brighton",
+    "wof:parent_id":85672615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.56817,
+    17.89945,
+    -76.56817,
+    17.89945
+],
+  "geometry": {"coordinates":[-76.56817,17.89945],"type":"Point"}
+}

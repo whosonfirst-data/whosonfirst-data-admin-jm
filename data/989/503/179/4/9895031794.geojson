@@ -1,0 +1,72 @@
+{
+  "id": 9895031794,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.39601,18.40532,-77.39601,18.40532",
+    "geom:latitude":18.40532,
+    "geom:longitude":-77.39601,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640080: name \"Retirement\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640080"
+        },
+        {
+            "citation":"GeoNames populated place 12640080: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640080"
+        },
+        {
+            "citation":"GeoNames populated place 12640080: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640080"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672599 (Saint Ann), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672599,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640080
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"bdfc85872b0369d8d776c3903dfcd674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031794,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":9895031794,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Retirement",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.39601,
+    18.40532,
+    -77.39601,
+    18.40532
+],
+  "geometry": {"coordinates":[-77.39601,18.40532],"type":"Point"}
+}

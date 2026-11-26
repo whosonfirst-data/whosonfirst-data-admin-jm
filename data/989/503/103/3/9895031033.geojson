@@ -1,0 +1,72 @@
+{
+  "id": 9895031033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.51921,17.95209,-76.51921,17.95209",
+    "geom:latitude":17.95209,
+    "geom:longitude":-76.51921,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12547718: name \"Georgia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12547718"
+        },
+        {
+            "citation":"GeoNames populated place 12547718: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12547718"
+        },
+        {
+            "citation":"GeoNames populated place 12547718: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12547718"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672615 (Saint Thomas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672615,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12547718
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"88c4363dd9b4970def255a13018fc797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031033,
+            "region_id":85672615
+        }
+    ],
+    "wof:id":9895031033,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Georgia",
+    "wof:parent_id":85672615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.51921,
+    17.95209,
+    -76.51921,
+    17.95209
+],
+  "geometry": {"coordinates":[-76.51921,17.95209],"type":"Point"}
+}

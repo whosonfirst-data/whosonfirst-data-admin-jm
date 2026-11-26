@@ -1,0 +1,72 @@
+{
+  "id": 9895031887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.9462,18.29868,-77.9462,18.29868",
+    "geom:latitude":18.29868,
+    "geom:longitude":-77.9462,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640576: name \"Galloway\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640576"
+        },
+        {
+            "citation":"GeoNames populated place 12640576: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640576"
+        },
+        {
+            "citation":"GeoNames populated place 12640576: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640576"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672583 (Westmoreland), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672583,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640576
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"9f102aab9b9d1c0742e37497f1f93a1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031887,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":9895031887,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Galloway",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.9462,
+    18.29868,
+    -77.9462,
+    18.29868
+],
+  "geometry": {"coordinates":[-77.9462,18.29868],"type":"Point"}
+}

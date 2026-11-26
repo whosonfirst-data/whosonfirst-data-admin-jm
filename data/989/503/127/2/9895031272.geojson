@@ -1,0 +1,72 @@
+{
+  "id": 9895031272,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.087,18.3578,-77.087,18.3578",
+    "geom:latitude":18.3578,
+    "geom:longitude":-77.087,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12558145: name \"Cole Gate\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12558145"
+        },
+        {
+            "citation":"GeoNames populated place 12558145: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12558145"
+        },
+        {
+            "citation":"GeoNames populated place 12558145: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12558145"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672599 (Saint Ann), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672599,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12558145
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"bcf69bdeb60d0c28a5cf1f44b26abd9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031272,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":9895031272,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Cole Gate",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.087,
+    18.3578,
+    -77.087,
+    18.3578
+],
+  "geometry": {"coordinates":[-77.087,18.3578],"type":"Point"}
+}

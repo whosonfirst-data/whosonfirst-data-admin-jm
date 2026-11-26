@@ -1,0 +1,72 @@
+{
+  "id": 9895031355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.62936,17.92793,-77.62936,17.92793",
+    "geom:latitude":17.92793,
+    "geom:longitude":-77.62936,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12572412: name \"Red Bank\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12572412"
+        },
+        {
+            "citation":"GeoNames populated place 12572412: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12572412"
+        },
+        {
+            "citation":"GeoNames populated place 12572412: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12572412"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672569 (Saint Elizabeth), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672569,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12572412
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"e12297b19ee005966f57451af3455575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031355,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":9895031355,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Red Bank",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.62936,
+    17.92793,
+    -77.62936,
+    17.92793
+],
+  "geometry": {"coordinates":[-77.62936,17.92793],"type":"Point"}
+}

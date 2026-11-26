@@ -1,0 +1,72 @@
+{
+  "id": 9895031970,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.9008,18.3101,-77.9008,18.3101",
+    "geom:latitude":18.3101,
+    "geom:longitude":-77.9008,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12648312: name \"White Sand\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12648312"
+        },
+        {
+            "citation":"GeoNames populated place 12648312: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12648312"
+        },
+        {
+            "citation":"GeoNames populated place 12648312: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12648312"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672573 (Saint James), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672573,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12648312
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"02dd09ca351e735851a2608addc22c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031970,
+            "region_id":85672573
+        }
+    ],
+    "wof:id":9895031970,
+    "wof:lastmodified":1795735002,
+    "wof:name":"White Sand",
+    "wof:parent_id":85672573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.9008,
+    18.3101,
+    -77.9008,
+    18.3101
+],
+  "geometry": {"coordinates":[-77.9008,18.3101],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895031698,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.96171,18.31107,-76.96171,18.31107",
+    "geom:latitude":18.31107,
+    "geom:longitude":-76.96171,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12639580: name \"Castle Mine\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12639580"
+        },
+        {
+            "citation":"GeoNames populated place 12639580: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12639580"
+        },
+        {
+            "citation":"GeoNames populated place 12639580: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12639580"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672605 (Saint Mary), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672605,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12639580
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"cf50cf9c4df70502c301efd6dd7738d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031698,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":9895031698,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Castle Mine",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.96171,
+    18.31107,
+    -76.96171,
+    18.31107
+],
+  "geometry": {"coordinates":[-76.96171,18.31107],"type":"Point"}
+}

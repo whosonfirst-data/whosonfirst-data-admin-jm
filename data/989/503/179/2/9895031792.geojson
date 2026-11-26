@@ -1,0 +1,72 @@
+{
+  "id": 9895031792,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.25463,18.38127,-77.25463,18.38127",
+    "geom:latitude":18.38127,
+    "geom:longitude":-77.25463,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640075: name \"Arabia Felix\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640075"
+        },
+        {
+            "citation":"GeoNames populated place 12640075: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640075"
+        },
+        {
+            "citation":"GeoNames populated place 12640075: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640075"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672599 (Saint Ann), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672599,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640075
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"3d272bcb844960603d4429907e87d255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031792,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":9895031792,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Arabia Felix",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.25463,
+    18.38127,
+    -77.25463,
+    18.38127
+],
+  "geometry": {"coordinates":[-77.25463,18.38127],"type":"Point"}
+}

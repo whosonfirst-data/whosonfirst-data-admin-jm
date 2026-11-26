@@ -1,0 +1,72 @@
+{
+  "id": 9895031953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.75988,18.44859,-77.75988,18.44859",
+    "geom:latitude":18.44859,
+    "geom:longitude":-77.75988,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12648257: name \"Belfield\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12648257"
+        },
+        {
+            "citation":"GeoNames populated place 12648257: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12648257"
+        },
+        {
+            "citation":"GeoNames populated place 12648257: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12648257"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672573 (Saint James), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672573,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12648257
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"1e8447f46ecbe1f5d8c8faef140aefa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031953,
+            "region_id":85672573
+        }
+    ],
+    "wof:id":9895031953,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Belfield",
+    "wof:parent_id":85672573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.75988,
+    18.44859,
+    -77.75988,
+    18.44859
+],
+  "geometry": {"coordinates":[-77.75988,18.44859],"type":"Point"}
+}

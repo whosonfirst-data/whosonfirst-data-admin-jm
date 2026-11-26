@@ -1,0 +1,72 @@
+{
+  "id": 9895032049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.48281,18.1194,-77.48281,18.1194",
+    "geom:latitude":18.1194,
+    "geom:longitude":-77.48281,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12680310: name \"Mizpah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12680310"
+        },
+        {
+            "citation":"GeoNames populated place 12680310: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12680310"
+        },
+        {
+            "citation":"GeoNames populated place 12680310: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12680310"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672567 (Manchester), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672567,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12680310
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"27c1ab30f6d91a5bc232ccdbadb8de32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895032049,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":9895032049,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Mizpah",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.48281,
+    18.1194,
+    -77.48281,
+    18.1194
+],
+  "geometry": {"coordinates":[-77.48281,18.1194],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895032035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.62471,18.11783,-77.62471,18.11783",
+    "geom:latitude":18.11783,
+    "geom:longitude":-77.62471,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12680168: name \"Ginger Piece\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12680168"
+        },
+        {
+            "citation":"GeoNames populated place 12680168: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12680168"
+        },
+        {
+            "citation":"GeoNames populated place 12680168: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12680168"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672569 (Saint Elizabeth), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672569,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12680168
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"79e7384ffc718f64e3413fc33ac16740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895032035,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":9895032035,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Ginger Piece",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.62471,
+    18.11783,
+    -77.62471,
+    18.11783
+],
+  "geometry": {"coordinates":[-77.62471,18.11783],"type":"Point"}
+}

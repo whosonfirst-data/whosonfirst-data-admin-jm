@@ -1,0 +1,72 @@
+{
+  "id": 9895031149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.65267,17.94186,-76.65267,17.94186",
+    "geom:latitude":17.94186,
+    "geom:longitude":-76.65267,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12557349: name \"Pentonville\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12557349"
+        },
+        {
+            "citation":"GeoNames populated place 12557349: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12557349"
+        },
+        {
+            "citation":"GeoNames populated place 12557349: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12557349"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672615 (Saint Thomas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672615,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12557349
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"883c288f8dcc8cbf0daa1411abb442ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031149,
+            "region_id":85672615
+        }
+    ],
+    "wof:id":9895031149,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Pentonville",
+    "wof:parent_id":85672615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.65267,
+    17.94186,
+    -76.65267,
+    17.94186
+],
+  "geometry": {"coordinates":[-76.65267,17.94186],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895032020,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.58413,17.91237,-77.58413,17.91237",
+    "geom:latitude":17.91237,
+    "geom:longitude":-77.58413,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12648492: name \"Essex Valley\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12648492"
+        },
+        {
+            "citation":"GeoNames populated place 12648492: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12648492"
+        },
+        {
+            "citation":"GeoNames populated place 12648492: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12648492"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672569 (Saint Elizabeth), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672569,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12648492
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"0e1efe713a8baea8b4f14d80bc77c604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895032020,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":9895032020,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Essex Valley",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.58413,
+    17.91237,
+    -77.58413,
+    17.91237
+],
+  "geometry": {"coordinates":[-77.58413,17.91237],"type":"Point"}
+}

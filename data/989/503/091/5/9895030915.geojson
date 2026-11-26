@@ -1,0 +1,72 @@
+{
+  "id": 9895030915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.41493,18.0719,-77.41493,18.0719",
+    "geom:latitude":18.0719,
+    "geom:longitude":-77.41493,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12541869: name \"Garlogie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12541869"
+        },
+        {
+            "citation":"GeoNames populated place 12541869: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12541869"
+        },
+        {
+            "citation":"GeoNames populated place 12541869: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12541869"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672567 (Manchester), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672567,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12541869
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"33e7591a2ef993926427f5390ee72506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895030915,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":9895030915,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Garlogie",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.41493,
+    18.0719,
+    -77.41493,
+    18.0719
+],
+  "geometry": {"coordinates":[-77.41493,18.0719],"type":"Point"}
+}

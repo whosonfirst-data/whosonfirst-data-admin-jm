@@ -1,0 +1,72 @@
+{
+  "id": 9895030911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.23607,18.37036,-78.23607,18.37036",
+    "geom:latitude":18.37036,
+    "geom:longitude":-78.23607,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12541817: name \"Blairs Hill\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12541817"
+        },
+        {
+            "citation":"GeoNames populated place 12541817: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12541817"
+        },
+        {
+            "citation":"GeoNames populated place 12541817: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12541817"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672563 (Hanover), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12541817
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"1d108e1dd9d2b14a6274e7fd6c8fc9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895030911,
+            "region_id":85672563
+        }
+    ],
+    "wof:id":9895030911,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Blairs Hill",
+    "wof:parent_id":85672563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.23607,
+    18.37036,
+    -78.23607,
+    18.37036
+],
+  "geometry": {"coordinates":[-78.23607,18.37036],"type":"Point"}
+}

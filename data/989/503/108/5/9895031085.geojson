@@ -1,0 +1,72 @@
+{
+  "id": 9895031085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.62782,18.01274,-76.62782,18.01274",
+    "geom:latitude":18.01274,
+    "geom:longitude":-76.62782,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12548224: name \"Carrick Hill\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12548224"
+        },
+        {
+            "citation":"GeoNames populated place 12548224: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12548224"
+        },
+        {
+            "citation":"GeoNames populated place 12548224: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12548224"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672615 (Saint Thomas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672615,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12548224
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"6a49a951001f400a098b2b3ce88ccd23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031085,
+            "region_id":85672615
+        }
+    ],
+    "wof:id":9895031085,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Carrick Hill",
+    "wof:parent_id":85672615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.62782,
+    18.01274,
+    -76.62782,
+    18.01274
+],
+  "geometry": {"coordinates":[-76.62782,18.01274],"type":"Point"}
+}

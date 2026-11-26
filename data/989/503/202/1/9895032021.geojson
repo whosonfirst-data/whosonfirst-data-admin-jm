@@ -1,0 +1,72 @@
+{
+  "id": 9895032021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.6905,17.8807,-77.6905,17.8807",
+    "geom:latitude":17.8807,
+    "geom:longitude":-77.6905,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12648558: name \"Seaview\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12648558"
+        },
+        {
+            "citation":"GeoNames populated place 12648558: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12648558"
+        },
+        {
+            "citation":"GeoNames populated place 12648558: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12648558"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672569 (Saint Elizabeth), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672569,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12648558
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"f5217720b36a8d962e0b58b4350d6155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895032021,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":9895032021,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Seaview",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.6905,
+    17.8807,
+    -77.6905,
+    17.8807
+],
+  "geometry": {"coordinates":[-77.6905,17.8807],"type":"Point"}
+}

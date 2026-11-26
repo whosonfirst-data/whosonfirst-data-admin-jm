@@ -1,0 +1,72 @@
+{
+  "id": 9895030904,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.19627,18.42083,-78.19627,18.42083",
+    "geom:latitude":18.42083,
+    "geom:longitude":-78.19627,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12541809: name \"Richmond\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12541809"
+        },
+        {
+            "citation":"GeoNames populated place 12541809: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12541809"
+        },
+        {
+            "citation":"GeoNames populated place 12541809: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12541809"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672563 (Hanover), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12541809
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"e27e00bed7baf17ae897a11ddccc6491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895030904,
+            "region_id":85672563
+        }
+    ],
+    "wof:id":9895030904,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Richmond",
+    "wof:parent_id":85672563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.19627,
+    18.42083,
+    -78.19627,
+    18.42083
+],
+  "geometry": {"coordinates":[-78.19627,18.42083],"type":"Point"}
+}

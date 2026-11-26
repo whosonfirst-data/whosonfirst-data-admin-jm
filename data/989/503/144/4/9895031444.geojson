@@ -1,0 +1,72 @@
+{
+  "id": 9895031444,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.48395,17.9546,-77.48395,17.9546",
+    "geom:latitude":17.9546,
+    "geom:longitude":-77.48395,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12573750: name \"Blenheim Town\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12573750"
+        },
+        {
+            "citation":"GeoNames populated place 12573750: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12573750"
+        },
+        {
+            "citation":"GeoNames populated place 12573750: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12573750"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672567 (Manchester), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672567,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12573750
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"ed54ccca88d01492a971aaf2f6a24eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031444,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":9895031444,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Blenheim Town",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.48395,
+    17.9546,
+    -77.48395,
+    17.9546
+],
+  "geometry": {"coordinates":[-77.48395,17.9546],"type":"Point"}
+}

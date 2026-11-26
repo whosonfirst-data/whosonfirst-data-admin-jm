@@ -1,0 +1,72 @@
+{
+  "id": 9895031505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.04453,18.1489,-77.04453,18.1489",
+    "geom:latitude":18.1489,
+    "geom:longitude":-77.04453,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12574124: name \"Victoria\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12574124"
+        },
+        {
+            "citation":"GeoNames populated place 12574124: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12574124"
+        },
+        {
+            "citation":"GeoNames populated place 12574124: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12574124"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672601 (Saint Catherine), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672601,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12574124
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"2365d0db3dd0b925ecfd3eccd9c58d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031505,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":9895031505,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Victoria",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.04453,
+    18.1489,
+    -77.04453,
+    18.1489
+],
+  "geometry": {"coordinates":[-77.04453,18.1489],"type":"Point"}
+}

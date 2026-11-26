@@ -1,0 +1,72 @@
+{
+  "id": 9895031616,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.68286,18.16511,-76.68286,18.16511",
+    "geom:latitude":18.16511,
+    "geom:longitude":-76.68286,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12608815: name \"Berwick Spring\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12608815"
+        },
+        {
+            "citation":"GeoNames populated place 12608815: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12608815"
+        },
+        {
+            "citation":"GeoNames populated place 12608815: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12608815"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672591 (Portland), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672591,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12608815
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"c01f545b9e0778e7fa052cf71fb22c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031616,
+            "region_id":85672591
+        }
+    ],
+    "wof:id":9895031616,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Berwick Spring",
+    "wof:parent_id":85672591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.68286,
+    18.16511,
+    -76.68286,
+    18.16511
+],
+  "geometry": {"coordinates":[-76.68286,18.16511],"type":"Point"}
+}

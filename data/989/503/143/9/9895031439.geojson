@@ -1,0 +1,72 @@
+{
+  "id": 9895031439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.58707,18.20356,-77.58707,18.20356",
+    "geom:latitude":18.20356,
+    "geom:longitude":-77.58707,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12573734: name \"Waterloo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12573734"
+        },
+        {
+            "citation":"GeoNames populated place 12573734: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12573734"
+        },
+        {
+            "citation":"GeoNames populated place 12573734: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12573734"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672567 (Manchester), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672567,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12573734
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"cf56487a6218dd45d142ae878a127285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031439,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":9895031439,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Waterloo",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.58707,
+    18.20356,
+    -77.58707,
+    18.20356
+],
+  "geometry": {"coordinates":[-77.58707,18.20356],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895031901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.11694,18.26807,-78.11694,18.26807",
+    "geom:latitude":18.26807,
+    "geom:longitude":-78.11694,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640623: name \"Fenton Pen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640623"
+        },
+        {
+            "citation":"GeoNames populated place 12640623: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640623"
+        },
+        {
+            "citation":"GeoNames populated place 12640623: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640623"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672583 (Westmoreland), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672583,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640623
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"9b6429c44881d26ee80ac5d621881aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031901,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":9895031901,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Fenton Pen",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.11694,
+    18.26807,
+    -78.11694,
+    18.26807
+],
+  "geometry": {"coordinates":[-78.11694,18.26807],"type":"Point"}
+}

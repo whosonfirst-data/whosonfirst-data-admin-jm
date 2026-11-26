@@ -1,0 +1,72 @@
+{
+  "id": 9895032147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.18816,18.05419,-77.18816,18.05419",
+    "geom:latitude":18.05419,
+    "geom:longitude":-77.18816,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12688911: name \"Retirement\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12688911"
+        },
+        {
+            "citation":"GeoNames populated place 12688911: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12688911"
+        },
+        {
+            "citation":"GeoNames populated place 12688911: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12688911"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672559 (Clarendon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672559,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12688911
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"208afc4bd9cd53d52bd068cecbd80134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895032147,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":9895032147,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Retirement",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.18816,
+    18.05419,
+    -77.18816,
+    18.05419
+],
+  "geometry": {"coordinates":[-77.18816,18.05419],"type":"Point"}
+}

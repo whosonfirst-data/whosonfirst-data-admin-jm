@@ -1,0 +1,72 @@
+{
+  "id": 9895032139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.22188,18.0744,-77.22188,18.0744",
+    "geom:latitude":18.0744,
+    "geom:longitude":-77.22188,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12688896: name \"Low Ground\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12688896"
+        },
+        {
+            "citation":"GeoNames populated place 12688896: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12688896"
+        },
+        {
+            "citation":"GeoNames populated place 12688896: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12688896"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672559 (Clarendon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672559,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12688896
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"51f21a54f95b46743ee16723617d14b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895032139,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":9895032139,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Low Ground",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.22188,
+    18.0744,
+    -77.22188,
+    18.0744
+],
+  "geometry": {"coordinates":[-77.22188,18.0744],"type":"Point"}
+}

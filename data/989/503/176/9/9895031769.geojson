@@ -1,0 +1,72 @@
+{
+  "id": 9895031769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.3509,18.30186,-77.3509,18.30186",
+    "geom:latitude":18.30186,
+    "geom:longitude":-77.3509,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12639907: name \"Myndale\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12639907"
+        },
+        {
+            "citation":"GeoNames populated place 12639907: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12639907"
+        },
+        {
+            "citation":"GeoNames populated place 12639907: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12639907"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672599 (Saint Ann), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672599,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12639907
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"40d45ee4857980110ace612c082b438f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031769,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":9895031769,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Myndale",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.3509,
+    18.30186,
+    -77.3509,
+    18.30186
+],
+  "geometry": {"coordinates":[-77.3509,18.30186],"type":"Point"}
+}

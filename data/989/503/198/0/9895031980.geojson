@@ -1,0 +1,72 @@
+{
+  "id": 9895031980,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.813,18.40688,-77.813,18.40688",
+    "geom:latitude":18.40688,
+    "geom:longitude":-77.813,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12648328: name \"Leyden\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12648328"
+        },
+        {
+            "citation":"GeoNames populated place 12648328: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12648328"
+        },
+        {
+            "citation":"GeoNames populated place 12648328: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12648328"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672573 (Saint James), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672573,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12648328
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"52126944e4bccbc4ecacb7049417f019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031980,
+            "region_id":85672573
+        }
+    ],
+    "wof:id":9895031980,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Leyden",
+    "wof:parent_id":85672573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.813,
+    18.40688,
+    -77.813,
+    18.40688
+],
+  "geometry": {"coordinates":[-77.813,18.40688],"type":"Point"}
+}

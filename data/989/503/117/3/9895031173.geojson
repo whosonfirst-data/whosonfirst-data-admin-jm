@@ -1,0 +1,72 @@
+{
+  "id": 9895031173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.997,18.12788,-77.997,18.12788",
+    "geom:latitude":18.12788,
+    "geom:longitude":-77.997,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12557430: name \"McAlpine\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12557430"
+        },
+        {
+            "citation":"GeoNames populated place 12557430: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12557430"
+        },
+        {
+            "citation":"GeoNames populated place 12557430: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12557430"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672583 (Westmoreland), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672583,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12557430
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"95d9719ddd0b9ba2bbf031c0db76fcb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031173,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":9895031173,
+    "wof:lastmodified":1795735002,
+    "wof:name":"McAlpine",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.997,
+    18.12788,
+    -77.997,
+    18.12788
+],
+  "geometry": {"coordinates":[-77.997,18.12788],"type":"Point"}
+}

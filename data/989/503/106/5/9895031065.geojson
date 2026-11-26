@@ -1,0 +1,72 @@
+{
+  "id": 9895031065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.82105,18.17323,-76.82105,18.17323",
+    "geom:latitude":18.17323,
+    "geom:longitude":-76.82105,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12547923: name \"Orangefield\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12547923"
+        },
+        {
+            "citation":"GeoNames populated place 12547923: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12547923"
+        },
+        {
+            "citation":"GeoNames populated place 12547923: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12547923"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672609 (Saint Andrew), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672609,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12547923
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"07fe35f72c859261de6dc3939d41c9c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031065,
+            "region_id":85672609
+        }
+    ],
+    "wof:id":9895031065,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Orangefield",
+    "wof:parent_id":85672609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.82105,
+    18.17323,
+    -76.82105,
+    18.17323
+],
+  "geometry": {"coordinates":[-76.82105,18.17323],"type":"Point"}
+}

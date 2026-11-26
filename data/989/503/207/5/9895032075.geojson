@@ -1,0 +1,72 @@
+{
+  "id": 9895032075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.50842,17.96598,-77.50842,17.96598",
+    "geom:latitude":17.96598,
+    "geom:longitude":-77.50842,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12687290: name \"Bethabara\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12687290"
+        },
+        {
+            "citation":"GeoNames populated place 12687290: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12687290"
+        },
+        {
+            "citation":"GeoNames populated place 12687290: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12687290"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672567 (Manchester), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672567,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12687290
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"252da909ba4870917bee76d377171a00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895032075,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":9895032075,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Bethabara",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.50842,
+    17.96598,
+    -77.50842,
+    17.96598
+],
+  "geometry": {"coordinates":[-77.50842,17.96598],"type":"Point"}
+}

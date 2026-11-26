@@ -1,0 +1,72 @@
+{
+  "id": 9895031663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.68752,18.08863,-76.68752,18.08863",
+    "geom:latitude":18.08863,
+    "geom:longitude":-76.68752,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12625474: name \"Candlelight\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12625474"
+        },
+        {
+            "citation":"GeoNames populated place 12625474: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12625474"
+        },
+        {
+            "citation":"GeoNames populated place 12625474: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12625474"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672609 (Saint Andrew), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672609,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12625474
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"30aa0be1c5ebb217e43ea610498cc8d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031663,
+            "region_id":85672609
+        }
+    ],
+    "wof:id":9895031663,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Candlelight",
+    "wof:parent_id":85672609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.68752,
+    18.08863,
+    -76.68752,
+    18.08863
+],
+  "geometry": {"coordinates":[-76.68752,18.08863],"type":"Point"}
+}

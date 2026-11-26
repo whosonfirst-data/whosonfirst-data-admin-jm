@@ -1,0 +1,72 @@
+{
+  "id": 9895031479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.95277,18.10155,-76.95277,18.10155",
+    "geom:latitude":18.10155,
+    "geom:longitude":-76.95277,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12574013: name \"Winchester\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12574013"
+        },
+        {
+            "citation":"GeoNames populated place 12574013: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12574013"
+        },
+        {
+            "citation":"GeoNames populated place 12574013: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12574013"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672601 (Saint Catherine), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672601,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12574013
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"1ab9b9cbef4539a25733857e887a783d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031479,
+            "region_id":85672601
+        }
+    ],
+    "wof:id":9895031479,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Winchester",
+    "wof:parent_id":85672601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.95277,
+    18.10155,
+    -76.95277,
+    18.10155
+],
+  "geometry": {"coordinates":[-76.95277,18.10155],"type":"Point"}
+}

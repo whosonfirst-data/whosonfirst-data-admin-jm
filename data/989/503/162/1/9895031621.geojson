@@ -1,0 +1,72 @@
+{
+  "id": 9895031621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.61506,18.2209,-76.61506,18.2209",
+    "geom:latitude":18.2209,
+    "geom:longitude":-76.61506,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12613722: name \"Hopewell\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12613722"
+        },
+        {
+            "citation":"GeoNames populated place 12613722: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12613722"
+        },
+        {
+            "citation":"GeoNames populated place 12613722: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12613722"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672591 (Portland), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672591,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12613722
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"b7d386a8f2814deb23b2aa3c7ebe19c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031621,
+            "region_id":85672591
+        }
+    ],
+    "wof:id":9895031621,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Hopewell",
+    "wof:parent_id":85672591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.61506,
+    18.2209,
+    -76.61506,
+    18.2209
+],
+  "geometry": {"coordinates":[-76.61506,18.2209],"type":"Point"}
+}

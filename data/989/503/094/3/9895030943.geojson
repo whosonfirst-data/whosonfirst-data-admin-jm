@@ -1,0 +1,72 @@
+{
+  "id": 9895030943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.0085,18.1658,-78.0085,18.1658",
+    "geom:latitude":18.1658,
+    "geom:longitude":-78.0085,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12546964: name \"Shafston Pen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12546964"
+        },
+        {
+            "citation":"GeoNames populated place 12546964: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12546964"
+        },
+        {
+            "citation":"GeoNames populated place 12546964: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12546964"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672583 (Westmoreland), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672583,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12546964
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"ea4ecda1ae950c5f55c010817a96275c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895030943,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":9895030943,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Shafston Pen",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.0085,
+    18.1658,
+    -78.0085,
+    18.1658
+],
+  "geometry": {"coordinates":[-78.0085,18.1658],"type":"Point"}
+}

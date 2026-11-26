@@ -1,0 +1,72 @@
+{
+  "id": 9895030917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.18062,18.02925,-77.18062,18.02925",
+    "geom:latitude":18.02925,
+    "geom:longitude":-77.18062,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12541873: name \"Keys\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12541873"
+        },
+        {
+            "citation":"GeoNames populated place 12541873: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12541873"
+        },
+        {
+            "citation":"GeoNames populated place 12541873: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12541873"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672559 (Clarendon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672559,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12541873
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"dd251b1889f5c41933ae293795577ac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895030917,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":9895030917,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Keys",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.18062,
+    18.02925,
+    -77.18062,
+    18.02925
+],
+  "geometry": {"coordinates":[-77.18062,18.02925],"type":"Point"}
+}

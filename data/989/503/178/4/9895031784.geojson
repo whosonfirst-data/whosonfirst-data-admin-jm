@@ -1,0 +1,72 @@
+{
+  "id": 9895031784,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.214,18.2554,-77.214,18.2554",
+    "geom:latitude":18.2554,
+    "geom:longitude":-77.214,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640049: name \"Edinburgh Castle\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640049"
+        },
+        {
+            "citation":"GeoNames populated place 12640049: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640049"
+        },
+        {
+            "citation":"GeoNames populated place 12640049: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640049"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672599 (Saint Ann), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672599,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640049
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"b17a81186cfa9c27b327ce80c7506d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031784,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":9895031784,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Edinburgh Castle",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.214,
+    18.2554,
+    -77.214,
+    18.2554
+],
+  "geometry": {"coordinates":[-77.214,18.2554],"type":"Point"}
+}
