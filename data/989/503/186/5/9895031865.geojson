@@ -1,0 +1,72 @@
+{
+  "id": 9895031865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.23592,18.34269,-78.23592,18.34269",
+    "geom:latitude":18.34269,
+    "geom:longitude":-78.23592,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640491: name \"Jerusalem Mountain - part of\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640491"
+        },
+        {
+            "citation":"GeoNames populated place 12640491: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640491"
+        },
+        {
+            "citation":"GeoNames populated place 12640491: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640491"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672563 (Hanover), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640491
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"cf88a6d4639d2c1b00485c7cdc410b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031865,
+            "region_id":85672563
+        }
+    ],
+    "wof:id":9895031865,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Jerusalem Mountain - part of",
+    "wof:parent_id":85672563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.23592,
+    18.34269,
+    -78.23592,
+    18.34269
+],
+  "geometry": {"coordinates":[-78.23592,18.34269],"type":"Point"}
+}

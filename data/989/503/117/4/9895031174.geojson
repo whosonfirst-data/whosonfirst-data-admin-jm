@@ -1,0 +1,72 @@
+{
+  "id": 9895031174,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.00633,18.12427,-78.00633,18.12427",
+    "geom:latitude":18.12427,
+    "geom:longitude":-78.00633,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12557431: name \"Farm\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12557431"
+        },
+        {
+            "citation":"GeoNames populated place 12557431: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12557431"
+        },
+        {
+            "citation":"GeoNames populated place 12557431: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12557431"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672583 (Westmoreland), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672583,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12557431
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"c759f4586a28a233f9aef4644615db03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031174,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":9895031174,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Farm",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.00633,
+    18.12427,
+    -78.00633,
+    18.12427
+],
+  "geometry": {"coordinates":[-78.00633,18.12427],"type":"Point"}
+}

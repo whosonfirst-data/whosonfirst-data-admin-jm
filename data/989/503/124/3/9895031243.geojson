@@ -1,0 +1,72 @@
+{
+  "id": 9895031243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.47333,18.2196,-77.47333,18.2196",
+    "geom:latitude":18.2196,
+    "geom:longitude":-77.47333,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12557912: name \"Frazers\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12557912"
+        },
+        {
+            "citation":"GeoNames populated place 12557912: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12557912"
+        },
+        {
+            "citation":"GeoNames populated place 12557912: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12557912"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672599 (Saint Ann), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672599,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12557912
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"e3b635fe302fb68a996a518fb46c3204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031243,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":9895031243,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Frazers",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.47333,
+    18.2196,
+    -77.47333,
+    18.2196
+],
+  "geometry": {"coordinates":[-77.47333,18.2196],"type":"Point"}
+}

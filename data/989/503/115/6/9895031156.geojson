@@ -1,0 +1,72 @@
+{
+  "id": 9895031156,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.0951,18.3454,-78.0951,18.3454",
+    "geom:latitude":18.3454,
+    "geom:longitude":-78.0951,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12557359: name \"Bleauwearie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12557359"
+        },
+        {
+            "citation":"GeoNames populated place 12557359: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12557359"
+        },
+        {
+            "citation":"GeoNames populated place 12557359: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12557359"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672583 (Westmoreland), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672583,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12557359
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"c32103cab36f82dceea2258c671e4f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031156,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":9895031156,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Bleauwearie",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.0951,
+    18.3454,
+    -78.0951,
+    18.3454
+],
+  "geometry": {"coordinates":[-78.0951,18.3454],"type":"Point"}
+}

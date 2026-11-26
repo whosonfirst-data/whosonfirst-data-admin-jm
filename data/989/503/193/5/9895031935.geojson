@@ -1,0 +1,72 @@
+{
+  "id": 9895031935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.79933,18.404,-77.79933,18.404",
+    "geom:latitude":18.404,
+    "geom:longitude":-77.79933,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640764: name \"Prospect\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640764"
+        },
+        {
+            "citation":"GeoNames populated place 12640764: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640764"
+        },
+        {
+            "citation":"GeoNames populated place 12640764: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640764"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672573 (Saint James), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672573,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640764
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"e0d26c413c06bc086eae7dae9941ee0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031935,
+            "region_id":85672573
+        }
+    ],
+    "wof:id":9895031935,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Prospect",
+    "wof:parent_id":85672573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.79933,
+    18.404,
+    -77.79933,
+    18.404
+],
+  "geometry": {"coordinates":[-77.79933,18.404],"type":"Point"}
+}

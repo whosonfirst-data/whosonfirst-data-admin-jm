@@ -1,0 +1,72 @@
+{
+  "id": 9895031940,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.88974,18.37499,-77.88974,18.37499",
+    "geom:latitude":18.37499,
+    "geom:longitude":-77.88974,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640785: name \"Mafoota\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640785"
+        },
+        {
+            "citation":"GeoNames populated place 12640785: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640785"
+        },
+        {
+            "citation":"GeoNames populated place 12640785: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640785"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672573 (Saint James), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672573,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640785
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"6b3aff0dcf2446c31807ef043298c848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031940,
+            "region_id":85672573
+        }
+    ],
+    "wof:id":9895031940,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Mafoota",
+    "wof:parent_id":85672573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.88974,
+    18.37499,
+    -77.88974,
+    18.37499
+],
+  "geometry": {"coordinates":[-77.88974,18.37499],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895031154,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.07774,18.34809,-78.07774,18.34809",
+    "geom:latitude":18.34809,
+    "geom:longitude":-78.07774,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12557357: name \"Blackheath Mountain\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12557357"
+        },
+        {
+            "citation":"GeoNames populated place 12557357: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12557357"
+        },
+        {
+            "citation":"GeoNames populated place 12557357: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12557357"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672583 (Westmoreland), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672583,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12557357
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"e575c1743e12c52641b9d6b847218e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031154,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":9895031154,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Blackheath Mountain",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.07774,
+    18.34809,
+    -78.07774,
+    18.34809
+],
+  "geometry": {"coordinates":[-78.07774,18.34809],"type":"Point"}
+}

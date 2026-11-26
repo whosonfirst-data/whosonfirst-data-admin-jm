@@ -1,0 +1,72 @@
+{
+  "id": 9895031104,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.7022,18.49307,-77.7022,18.49307",
+    "geom:latitude":18.49307,
+    "geom:longitude":-77.7022,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12557085: name \"Salt Marsh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12557085"
+        },
+        {
+            "citation":"GeoNames populated place 12557085: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12557085"
+        },
+        {
+            "citation":"GeoNames populated place 12557085: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12557085"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672579 (Trelawny), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672579,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12557085
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"c57df40a150118275843c537c6820696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031104,
+            "region_id":85672579
+        }
+    ],
+    "wof:id":9895031104,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Salt Marsh",
+    "wof:parent_id":85672579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.7022,
+    18.49307,
+    -77.7022,
+    18.49307
+],
+  "geometry": {"coordinates":[-77.7022,18.49307],"type":"Point"}
+}

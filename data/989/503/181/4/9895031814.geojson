@@ -1,0 +1,72 @@
+{
+  "id": 9895031814,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.41063,18.30101,-77.41063,18.30101",
+    "geom:latitude":18.30101,
+    "geom:longitude":-77.41063,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640170: name \"Turners Run\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640170"
+        },
+        {
+            "citation":"GeoNames populated place 12640170: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640170"
+        },
+        {
+            "citation":"GeoNames populated place 12640170: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640170"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672599 (Saint Ann), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672599,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640170
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"91dfd564736ecc896d148725c5121d1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031814,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":9895031814,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Turners Run",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.41063,
+    18.30101,
+    -77.41063,
+    18.30101
+],
+  "geometry": {"coordinates":[-77.41063,18.30101],"type":"Point"}
+}

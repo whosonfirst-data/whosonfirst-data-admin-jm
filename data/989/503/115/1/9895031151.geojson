@@ -1,0 +1,72 @@
+{
+  "id": 9895031151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.6447,17.95423,-76.6447,17.95423",
+    "geom:latitude":17.95423,
+    "geom:longitude":-76.6447,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12557352: name \"Worcester Park\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12557352"
+        },
+        {
+            "citation":"GeoNames populated place 12557352: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12557352"
+        },
+        {
+            "citation":"GeoNames populated place 12557352: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12557352"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672615 (Saint Thomas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672615,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12557352
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"2081522a41cf184680af1f56ff29d679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031151,
+            "region_id":85672615
+        }
+    ],
+    "wof:id":9895031151,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Worcester Park",
+    "wof:parent_id":85672615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.6447,
+    17.95423,
+    -76.6447,
+    17.95423
+],
+  "geometry": {"coordinates":[-76.6447,17.95423],"type":"Point"}
+}

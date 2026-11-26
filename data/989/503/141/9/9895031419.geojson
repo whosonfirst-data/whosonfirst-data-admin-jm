@@ -1,0 +1,72 @@
+{
+  "id": 9895031419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.42878,17.9463,-77.42878,17.9463",
+    "geom:latitude":17.9463,
+    "geom:longitude":-77.42878,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12572683: name \"Perrins\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12572683"
+        },
+        {
+            "citation":"GeoNames populated place 12572683: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12572683"
+        },
+        {
+            "citation":"GeoNames populated place 12572683: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12572683"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672567 (Manchester), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672567,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12572683
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"c2d8743ca1c23f86a11f13dd61df80db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031419,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":9895031419,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Perrins",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.42878,
+    17.9463,
+    -77.42878,
+    17.9463
+],
+  "geometry": {"coordinates":[-77.42878,17.9463],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895031236,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.61705,18.39265,-77.61705,18.39265",
+    "geom:latitude":18.39265,
+    "geom:longitude":-77.61705,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12557795: name \"Piedmont\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12557795"
+        },
+        {
+            "citation":"GeoNames populated place 12557795: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12557795"
+        },
+        {
+            "citation":"GeoNames populated place 12557795: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12557795"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672579 (Trelawny), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672579,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12557795
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"7afbc190a284eb7007da6cb1f4dda3d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031236,
+            "region_id":85672579
+        }
+    ],
+    "wof:id":9895031236,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Piedmont",
+    "wof:parent_id":85672579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.61705,
+    18.39265,
+    -77.61705,
+    18.39265
+],
+  "geometry": {"coordinates":[-77.61705,18.39265],"type":"Point"}
+}

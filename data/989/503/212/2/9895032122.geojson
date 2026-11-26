@@ -1,0 +1,72 @@
+{
+  "id": 9895032122,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.3768,18.13563,-77.3768,18.13563",
+    "geom:latitude":18.13563,
+    "geom:longitude":-77.3768,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12688852: name \"Nine Turns\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12688852"
+        },
+        {
+            "citation":"GeoNames populated place 12688852: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12688852"
+        },
+        {
+            "citation":"GeoNames populated place 12688852: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12688852"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672559 (Clarendon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672559,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12688852
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"26943d7963aa7b2670b8a168c70d92a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895032122,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":9895032122,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Nine Turns",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.3768,
+    18.13563,
+    -77.3768,
+    18.13563
+],
+  "geometry": {"coordinates":[-77.3768,18.13563],"type":"Point"}
+}

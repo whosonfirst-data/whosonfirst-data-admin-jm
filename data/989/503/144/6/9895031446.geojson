@@ -1,0 +1,72 @@
+{
+  "id": 9895031446,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.51021,17.94168,-77.51021,17.94168",
+    "geom:latitude":17.94168,
+    "geom:longitude":-77.51021,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12573752: name \"Hartham Rudds Corner\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12573752"
+        },
+        {
+            "citation":"GeoNames populated place 12573752: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12573752"
+        },
+        {
+            "citation":"GeoNames populated place 12573752: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12573752"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672567 (Manchester), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672567,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12573752
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"a82c18c82af583b7f22cf3bd7e2aa639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031446,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":9895031446,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Hartham Rudds Corner",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.51021,
+    17.94168,
+    -77.51021,
+    17.94168
+],
+  "geometry": {"coordinates":[-77.51021,17.94168],"type":"Point"}
+}

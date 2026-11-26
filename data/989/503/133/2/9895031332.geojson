@@ -1,0 +1,72 @@
+{
+  "id": 9895031332,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.75512,17.88331,-77.75512,17.88331",
+    "geom:latitude":17.88331,
+    "geom:longitude":-77.75512,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12572311: name \"Frenchman\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12572311"
+        },
+        {
+            "citation":"GeoNames populated place 12572311: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12572311"
+        },
+        {
+            "citation":"GeoNames populated place 12572311: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12572311"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672569 (Saint Elizabeth), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672569,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12572311
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"38458372422f85186a6d948e54e8d8ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031332,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":9895031332,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Frenchman",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.75512,
+    17.88331,
+    -77.75512,
+    17.88331
+],
+  "geometry": {"coordinates":[-77.75512,17.88331],"type":"Point"}
+}

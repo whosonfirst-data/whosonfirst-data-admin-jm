@@ -1,0 +1,72 @@
+{
+  "id": 9895031283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.4406,18.21111,-77.4406,18.21111",
+    "geom:latitude":18.21111,
+    "geom:longitude":-77.4406,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12558199: name \"Mount Moriah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12558199"
+        },
+        {
+            "citation":"GeoNames populated place 12558199: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12558199"
+        },
+        {
+            "citation":"GeoNames populated place 12558199: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12558199"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672599 (Saint Ann), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672599,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12558199
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"0f19746aec370018ed6e14372c5f046f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031283,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":9895031283,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Mount Moriah",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.4406,
+    18.21111,
+    -77.4406,
+    18.21111
+],
+  "geometry": {"coordinates":[-77.4406,18.21111],"type":"Point"}
+}

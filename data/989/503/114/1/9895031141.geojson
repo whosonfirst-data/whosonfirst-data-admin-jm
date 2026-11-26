@@ -1,0 +1,72 @@
+{
+  "id": 9895031141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.9264,18.2379,-76.9264,18.2379",
+    "geom:latitude":18.2379,
+    "geom:longitude":-76.9264,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12557330: name \"Braemmer\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12557330"
+        },
+        {
+            "citation":"GeoNames populated place 12557330: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12557330"
+        },
+        {
+            "citation":"GeoNames populated place 12557330: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12557330"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672605 (Saint Mary), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672605,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12557330
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"abde54bbef94ddadb6b4ec98f5684820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031141,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":9895031141,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Braemmer",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.9264,
+    18.2379,
+    -76.9264,
+    18.2379
+],
+  "geometry": {"coordinates":[-76.9264,18.2379],"type":"Point"}
+}

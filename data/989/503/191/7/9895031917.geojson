@@ -1,0 +1,72 @@
+{
+  "id": 9895031917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.90321,18.26996,-77.90321,18.26996",
+    "geom:latitude":18.26996,
+    "geom:longitude":-77.90321,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640663: name \"Read Land\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640663"
+        },
+        {
+            "citation":"GeoNames populated place 12640663: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640663"
+        },
+        {
+            "citation":"GeoNames populated place 12640663: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640663"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672583 (Westmoreland), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672583,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640663
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"925ed7eca33ac49aa5b03ce74603800e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031917,
+            "region_id":85672583
+        }
+    ],
+    "wof:id":9895031917,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Read Land",
+    "wof:parent_id":85672583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.90321,
+    18.26996,
+    -77.90321,
+    18.26996
+],
+  "geometry": {"coordinates":[-77.90321,18.26996],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895031041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.3065,17.9469,-76.3065,17.9469",
+    "geom:latitude":17.9469,
+    "geom:longitude":-76.3065,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12547806: name \"Plantain Garden River Estate\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12547806"
+        },
+        {
+            "citation":"GeoNames populated place 12547806: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12547806"
+        },
+        {
+            "citation":"GeoNames populated place 12547806: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12547806"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672615 (Saint Thomas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672615,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12547806
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"55c3cb3c3152a1b1d97e84f5fde10f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031041,
+            "region_id":85672615
+        }
+    ],
+    "wof:id":9895031041,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Plantain Garden River Estate",
+    "wof:parent_id":85672615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.3065,
+    17.9469,
+    -76.3065,
+    17.9469
+],
+  "geometry": {"coordinates":[-76.3065,17.9469],"type":"Point"}
+}

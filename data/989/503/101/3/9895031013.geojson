@@ -1,0 +1,72 @@
+{
+  "id": 9895031013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.73104,18.17669,-76.73104,18.17669",
+    "geom:latitude":18.17669,
+    "geom:longitude":-76.73104,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12547366: name \"Fort Stewart\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12547366"
+        },
+        {
+            "citation":"GeoNames populated place 12547366: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12547366"
+        },
+        {
+            "citation":"GeoNames populated place 12547366: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12547366"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672591 (Portland), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672591,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12547366
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"ef85edc36b4e306d581b5d883ca24f22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031013,
+            "region_id":85672591
+        }
+    ],
+    "wof:id":9895031013,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Fort Stewart",
+    "wof:parent_id":85672591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.73104,
+    18.17669,
+    -76.73104,
+    18.17669
+],
+  "geometry": {"coordinates":[-76.73104,18.17669],"type":"Point"}
+}

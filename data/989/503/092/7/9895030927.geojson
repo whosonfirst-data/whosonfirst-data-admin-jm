@@ -1,0 +1,72 @@
+{
+  "id": 9895030927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.76163,18.22513,-76.76163,18.22513",
+    "geom:latitude":18.22513,
+    "geom:longitude":-76.76163,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12541913: name \"Bridge Hole\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12541913"
+        },
+        {
+            "citation":"GeoNames populated place 12541913: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12541913"
+        },
+        {
+            "citation":"GeoNames populated place 12541913: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12541913"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672605 (Saint Mary), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672605,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12541913
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"5b33c49156f237024c9a75e42200aea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895030927,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":9895030927,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Bridge Hole",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.76163,
+    18.22513,
+    -76.76163,
+    18.22513
+],
+  "geometry": {"coordinates":[-76.76163,18.22513],"type":"Point"}
+}

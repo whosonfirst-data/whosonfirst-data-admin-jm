@@ -1,0 +1,72 @@
+{
+  "id": 9895032073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.40737,17.92896,-77.40737,17.92896",
+    "geom:latitude":17.92896,
+    "geom:longitude":-77.40737,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12687179: name \"Manningsfield\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12687179"
+        },
+        {
+            "citation":"GeoNames populated place 12687179: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12687179"
+        },
+        {
+            "citation":"GeoNames populated place 12687179: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12687179"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672567 (Manchester), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672567,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12687179
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"4144a2604eb985cd11db3f10e61c7e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895032073,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":9895032073,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Manningsfield",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.40737,
+    17.92896,
+    -77.40737,
+    17.92896
+],
+  "geometry": {"coordinates":[-77.40737,17.92896],"type":"Point"}
+}

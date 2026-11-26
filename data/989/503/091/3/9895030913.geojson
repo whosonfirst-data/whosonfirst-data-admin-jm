@@ -1,0 +1,72 @@
+{
+  "id": 9895030913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.82972,18.37122,-77.82972,18.37122",
+    "geom:latitude":18.37122,
+    "geom:longitude":-77.82972,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12541831: name \"Tulloch Castle\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12541831"
+        },
+        {
+            "citation":"GeoNames populated place 12541831: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12541831"
+        },
+        {
+            "citation":"GeoNames populated place 12541831: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12541831"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672573 (Saint James), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672573,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12541831
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"6fa857b3f2d5e88e8c679bf2ddb4b1f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895030913,
+            "region_id":85672573
+        }
+    ],
+    "wof:id":9895030913,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Tulloch Castle",
+    "wof:parent_id":85672573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.82972,
+    18.37122,
+    -77.82972,
+    18.37122
+],
+  "geometry": {"coordinates":[-77.82972,18.37122],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895031728,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.96112,18.32403,-76.96112,18.32403",
+    "geom:latitude":18.32403,
+    "geom:longitude":-76.96112,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12639706: name \"Raynham\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12639706"
+        },
+        {
+            "citation":"GeoNames populated place 12639706: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12639706"
+        },
+        {
+            "citation":"GeoNames populated place 12639706: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12639706"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672605 (Saint Mary), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672605,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12639706
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"45ded9bb5cc518e286b3678472548dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031728,
+            "region_id":85672605
+        }
+    ],
+    "wof:id":9895031728,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Raynham",
+    "wof:parent_id":85672605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.96112,
+    18.32403,
+    -76.96112,
+    18.32403
+],
+  "geometry": {"coordinates":[-76.96112,18.32403],"type":"Point"}
+}

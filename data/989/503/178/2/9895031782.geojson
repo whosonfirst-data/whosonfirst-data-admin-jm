@@ -1,0 +1,72 @@
+{
+  "id": 9895031782,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.36236,18.3758,-77.36236,18.3758",
+    "geom:latitude":18.3758,
+    "geom:longitude":-77.36236,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640013: name \"Wilberforce\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640013"
+        },
+        {
+            "citation":"GeoNames populated place 12640013: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640013"
+        },
+        {
+            "citation":"GeoNames populated place 12640013: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640013"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672599 (Saint Ann), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672599,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640013
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"763467b20a5a828b881af750f725bb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031782,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":9895031782,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Wilberforce",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.36236,
+    18.3758,
+    -77.36236,
+    18.3758
+],
+  "geometry": {"coordinates":[-77.36236,18.3758],"type":"Point"}
+}

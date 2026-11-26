@@ -1,0 +1,72 @@
+{
+  "id": 9895031093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.54224,17.95266,-76.54224,17.95266",
+    "geom:latitude":17.95266,
+    "geom:longitude":-76.54224,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12548265: name \"Reid Mountain\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12548265"
+        },
+        {
+            "citation":"GeoNames populated place 12548265: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12548265"
+        },
+        {
+            "citation":"GeoNames populated place 12548265: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12548265"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672615 (Saint Thomas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672615,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12548265
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"427d73469253391b807329a1071d91e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031093,
+            "region_id":85672615
+        }
+    ],
+    "wof:id":9895031093,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Reid Mountain",
+    "wof:parent_id":85672615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.54224,
+    17.95266,
+    -76.54224,
+    17.95266
+],
+  "geometry": {"coordinates":[-76.54224,17.95266],"type":"Point"}
+}

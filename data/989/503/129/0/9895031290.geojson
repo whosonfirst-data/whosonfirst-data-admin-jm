@@ -1,0 +1,72 @@
+{
+  "id": 9895031290,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.08173,18.31887,-77.08173,18.31887",
+    "geom:latitude":18.31887,
+    "geom:longitude":-77.08173,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12572028: name \"Cottage\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12572028"
+        },
+        {
+            "citation":"GeoNames populated place 12572028: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12572028"
+        },
+        {
+            "citation":"GeoNames populated place 12572028: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12572028"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672599 (Saint Ann), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672599,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12572028
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"316645b0daa7f8c13a2cb08d520a9a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031290,
+            "region_id":85672599
+        }
+    ],
+    "wof:id":9895031290,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Cottage",
+    "wof:parent_id":85672599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.08173,
+    18.31887,
+    -77.08173,
+    18.31887
+],
+  "geometry": {"coordinates":[-77.08173,18.31887],"type":"Point"}
+}

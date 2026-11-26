@@ -1,0 +1,72 @@
+{
+  "id": 9895031410,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.47124,17.97943,-77.47124,17.97943",
+    "geom:latitude":17.97943,
+    "geom:longitude":-77.47124,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12572635: name \"Elgin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12572635"
+        },
+        {
+            "citation":"GeoNames populated place 12572635: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12572635"
+        },
+        {
+            "citation":"GeoNames populated place 12572635: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12572635"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672567 (Manchester), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672567,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12572635
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"d556c503eaf3509f2899be29901f2285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031410,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":9895031410,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Elgin",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.47124,
+    17.97943,
+    -77.47124,
+    17.97943
+],
+  "geometry": {"coordinates":[-77.47124,17.97943],"type":"Point"}
+}

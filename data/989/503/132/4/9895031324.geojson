@@ -1,0 +1,72 @@
+{
+  "id": 9895031324,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.5875,18.068,-77.5875,18.068",
+    "geom:latitude":18.068,
+    "geom:longitude":-77.5875,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12572205: name \"Wickwar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12572205"
+        },
+        {
+            "citation":"GeoNames populated place 12572205: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12572205"
+        },
+        {
+            "citation":"GeoNames populated place 12572205: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12572205"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672567 (Manchester), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672567,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12572205
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"1db3bada95d1ce63c4058f5dbeda016f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031324,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":9895031324,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Wickwar",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.5875,
+    18.068,
+    -77.5875,
+    18.068
+],
+  "geometry": {"coordinates":[-77.5875,18.068],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895031431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.50228,18.02048,-77.50228,18.02048",
+    "geom:latitude":18.02048,
+    "geom:longitude":-77.50228,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12573721: name \"Cedar Grove Gardens\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12573721"
+        },
+        {
+            "citation":"GeoNames populated place 12573721: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12573721"
+        },
+        {
+            "citation":"GeoNames populated place 12573721: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12573721"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672567 (Manchester), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672567,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12573721
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"30560484e8a0bfa1dbeb9f2bd64de5c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031431,
+            "region_id":85672567
+        }
+    ],
+    "wof:id":9895031431,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Cedar Grove Gardens",
+    "wof:parent_id":85672567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.50228,
+    18.02048,
+    -77.50228,
+    18.02048
+],
+  "geometry": {"coordinates":[-77.50228,18.02048],"type":"Point"}
+}

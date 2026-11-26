@@ -1,0 +1,72 @@
+{
+  "id": 9895030937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.23486,18.11811,-77.23486,18.11811",
+    "geom:latitude":18.11811,
+    "geom:longitude":-77.23486,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12546950: name \"Pindars River\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12546950"
+        },
+        {
+            "citation":"GeoNames populated place 12546950: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12546950"
+        },
+        {
+            "citation":"GeoNames populated place 12546950: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12546950"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672559 (Clarendon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672559,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12546950
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"c3264de554e9b741b24aca3dce61bdc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895030937,
+            "region_id":85672559
+        }
+    ],
+    "wof:id":9895030937,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Pindars River",
+    "wof:parent_id":85672559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.23486,
+    18.11811,
+    -77.23486,
+    18.11811
+],
+  "geometry": {"coordinates":[-77.23486,18.11811],"type":"Point"}
+}

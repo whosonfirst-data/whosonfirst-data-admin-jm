@@ -1,0 +1,72 @@
+{
+  "id": 9895031343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.7157,17.89406,-77.7157,17.89406",
+    "geom:latitude":17.89406,
+    "geom:longitude":-77.7157,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12572374: name \"Campbells Run\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12572374"
+        },
+        {
+            "citation":"GeoNames populated place 12572374: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12572374"
+        },
+        {
+            "citation":"GeoNames populated place 12572374: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12572374"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672569 (Saint Elizabeth), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672569,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12572374
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"a4e78165a117d28aadbd31bea3bc45b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031343,
+            "region_id":85672569
+        }
+    ],
+    "wof:id":9895031343,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Campbells Run",
+    "wof:parent_id":85672569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.7157,
+    17.89406,
+    -77.7157,
+    17.89406
+],
+  "geometry": {"coordinates":[-77.7157,17.89406],"type":"Point"}
+}

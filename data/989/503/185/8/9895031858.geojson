@@ -1,0 +1,72 @@
+{
+  "id": 9895031858,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.15012,18.41598,-78.15012,18.41598",
+    "geom:latitude":18.41598,
+    "geom:longitude":-78.15012,
+    "iso:country":"JM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640483: name \"Dundee Pen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640483"
+        },
+        {
+            "citation":"GeoNames populated place 12640483: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640483"
+        },
+        {
+            "citation":"GeoNames populated place 12640483: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640483"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672563 (Hanover), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632215,
+        85672563,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640483
+    },
+    "wof:country":"JM",
+    "wof:geomhash":"06ce0b0989a7b8f0d881ad220ca6c280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632215,
+            "locality_id":9895031858,
+            "region_id":85672563
+        }
+    ],
+    "wof:id":9895031858,
+    "wof:lastmodified":1795735002,
+    "wof:name":"Dundee Pen",
+    "wof:parent_id":85672563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.15012,
+    18.41598,
+    -78.15012,
+    18.41598
+],
+  "geometry": {"coordinates":[-78.15012,18.41598],"type":"Point"}
+}
